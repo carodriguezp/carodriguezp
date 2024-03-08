@@ -13,7 +13,7 @@
 - Adaptability
 - Resilience
 
-### :fire: My Top Skills! :fire:
+### 🔥 My Top Skills! 🔥
 
 - Continuous learning
 - Leadership 
@@ -29,34 +29,15 @@
 
 
 ### 👩🏻‍💻Languages and Tools:
+<p float="left">
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="25">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="25"> <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="29"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"> <img src="https://github.com/get-icon/geticon/raw/master/icons/gulp.svg" width="15"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="27"> <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="25"> <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="25"> <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="25"> <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30">
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="25">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="29">
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/gulp.svg" width="15">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="27">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="25">
-
-<img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="25">
-
-<img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="25">
-
-<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="30">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30">
-
-<br/>
+</p>
 <br/>
 
-#####💬 How to reach me: 
+
+##### 💬 How to reach me: 
 
 - [<img src="image.png" width="20">](www.linkedin.com/in/carolinarodrp)
 
