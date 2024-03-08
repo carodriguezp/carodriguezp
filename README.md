@@ -7,13 +7,13 @@
 - 🔭 I’m currently working on my projects
 ---
 
-###💪 My Strengths! 💪
+### 💪 My Strengths! 💪
 
 - Creativity and innovation 
 - Adaptability
 - Resilience
 
-###:fire: My Top Skills! :fire:
+### :fire: My Top Skills! :fire:
 
 - Continuous learning
 - Leadership 
