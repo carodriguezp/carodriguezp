@@ -39,7 +39,7 @@
 
 ##### 💬 How to reach me: 
 
-- [<img src="image.png" width="20">](www.linkedin.com/in/carolinarodrp)
+- [<img src="image.png" width="20">](http://www.linkedin.com/in/carolinarodrp)
 
 
 
