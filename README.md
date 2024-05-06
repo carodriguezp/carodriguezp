@@ -31,6 +31,8 @@
 
 ### 👩🏻‍💻Languages and Tools:
 
+<p>
+
 <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="25"> 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="25"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"> 
@@ -55,6 +57,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/notion/notion-original.svg" width="25">
 
+</p>
 <br/>
 
 ##### 💬 How to reach me:
