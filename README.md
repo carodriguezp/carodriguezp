@@ -41,6 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" width="30">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="27"> 
+<img src="https://devicon-website.vercel.app/api/vuejs/original.svg" width="25">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="25"> 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/babel/babel-original.svg' width="25">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="25"> 
