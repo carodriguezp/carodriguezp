@@ -58,6 +58,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/notion/notion-original.svg" width="25">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="25"/>
+
+
 </p>
 <br/>
 
