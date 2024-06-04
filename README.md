@@ -2,9 +2,9 @@
 
 ---
 
-![Alt text](./img/header.png)
+![Alt text](./img/header.PNG)
 
-- 🌱 I’m currently learning more about JS and React
+- 🌱 I’m currently learning more about JS, React, TypeScript & testing
 - 🔭 I’m currently working on my projects
 
 ---
@@ -59,7 +59,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/notion/notion-original.svg" width="25">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="25"/>
-
 
 </p>
 <br/>
