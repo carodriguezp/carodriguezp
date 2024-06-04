@@ -2,7 +2,7 @@
 
 ---
 
-![Alt text](./img/header.PNG)
+![Alt text](./img/header.png)
 
 - 🌱 I’m currently learning more about JS, React, TypeScript & testing
 - 🔭 I’m currently working on my projects
